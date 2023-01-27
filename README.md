@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MelRhoads
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL but it's too hard so now I'm playing with MS Makecode!
 
 
 <!---
